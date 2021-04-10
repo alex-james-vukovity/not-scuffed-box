@@ -22,7 +22,7 @@
   "peerDependencies": {
     "react": ">=16"
   },
-  "name": "box",
+  "name": "not-scuffed-box",
   "author": "alex-james-vukovity",
   "module": "dist/box.esm.js",
   "size-limit": [
@@ -51,5 +51,15 @@
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "description": "Scuffed component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-james-vukovity/not-scuffed-box.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/alex-james-vukovity/not-scuffed-box/issues"
+  },
+  "homepage": "https://github.com/alex-james-vukovity/not-scuffed-box#readme"
 }
