@@ -1,9 +1,12 @@
 {
-  "version": "0.3.0",
+  "version": "0.2.0",
   "name": "not-scuffed-box",
   "description": "Scuffed component",
   "author": "alex-james-vukovity",
   "license": "MIT",
+  "main": "dist/box.js",
+  "typings": "dist/box.d.ts",
+  "module": "dist/box.esm.js",
   "files": [
     "dist",
     "src"
