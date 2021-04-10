@@ -4,9 +4,6 @@
   "description": "Scuffed component",
   "author": "alex-james-vukovity",
   "license": "MIT",
-  "main": "dist/box.js",
-  "typings": "dist/box.d.ts",
-  "module": "dist/box.esm.js",
   "files": [
     "dist",
     "src"
@@ -31,7 +28,8 @@
     "lint": "tsdx lint",
     "size": "size-limit",
     "analyze": "size-limit --why",
-    "release": "np"
+    "release": "np",
+    "prepare": "tsdx build"
   },
   "peerDependencies": {
     "react": ">=16"
