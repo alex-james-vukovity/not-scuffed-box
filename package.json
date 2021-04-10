@@ -4,9 +4,9 @@
   "description": "Scuffed component",
   "author": "alex-james-vukovity",
   "license": "MIT",
-  "main": "dist/box.js",
-  "typings": "dist/box.d.ts",
-  "module": "dist/box.esm.js",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "module": "dist/index.esm.js",
   "files": [
     "dist",
     "src"
