@@ -49,9 +49,6 @@
   "dependencies": {
     "np": "^7.4.0"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
-  },
   "description": "Scuffed component",
   "repository": {
     "type": "git",
